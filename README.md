@@ -60,5 +60,14 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
 
+Strapi local setup and sample content type
+
+- Cloned Strapi repository
+- Created Strapi project
+- Ran project locally
+- Admin panel accessible
+- Sample content type created
+- README.md added with setup steps
+- Loom demo video attached
 
 
